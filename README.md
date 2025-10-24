@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zeyad+Ayman!+😎;" />
 </h1>
 
-<h3 align="center"><img width=25 height=25 src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/> A Software Engineer | Frontend Developer | Frontend ReactNative | Desktop application developer</h3>
+<h3 align="center"><img width=25 height=25 src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/> A Software Engineer | Frontend Developer | Frontend ReactNative | Desktop application developer< | 3D frontend Developer/h3>
 
 <br/>
 <div>
   <br>
-  🔭 I’m currently working on **A Portfolio**
+      I’m currently working on 3D projects using R3F & Three JS!
   <br>
   <br>
       I’m currently learning Deep learning, Neural Network!
@@ -39,7 +39,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=1000 height=20/>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,java,javascript,python,react,html,css" />
@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZeyadAy-man/ZeyadAy-man/output/github-contribution-grid-snake.svg" />
   
@@ -64,7 +64,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=1000 height=20/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 
 <div align=center display=flex flexdirection=row>
@@ -98,7 +98,7 @@
 
 <br/>
 
-<h2 align="center">🔥 Recent Used Language 🔥</h2>
+<h2 align="center"> Recent Used Language </h2>
 <br>
 <div align="center">
     <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeyadAy_man&bg_color=000000&text_color=00FFFF&title_color=AA4203"></img>
