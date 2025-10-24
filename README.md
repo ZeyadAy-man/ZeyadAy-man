@@ -12,13 +12,10 @@
   🔭 I’m currently working on **A Portfolio**
   <br>
   <br>
-  🌱 I’m currently learning **OOP JS, OOP C++, & Python**
+      I’m currently learning Deep learning, Neural Network!
   <br>
   <br>
-  💬 Ask me about **Java, UI Principles, Frontend... or anything from zeyad4wonly@gmail.com**
-  <br>
-  <br>
-  ⚡ Fun fact **A Cloud weights around million of tonnes!**
+      Ask me about JS, Java, UI Principles, Frontend... or anything from zeyad4wonly@gmail.com
   <br>
   <br>
 </div>
